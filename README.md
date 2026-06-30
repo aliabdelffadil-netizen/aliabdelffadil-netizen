@@ -43,5 +43,3 @@ Right now, my main focus is on building a rock-solid technical foundation. I am 
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=USERNAME_HERE&theme=dark&hide_border=false" alt="GitHub Streak">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_HERE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
