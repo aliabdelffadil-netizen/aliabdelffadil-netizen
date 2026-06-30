@@ -39,7 +39,5 @@ Right now, my main focus is on building a rock-solid technical foundation. I am 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <br><br>
+
   <img src="https://streak-stats.demolab.com/?user=USERNAME_HERE&theme=dark&hide_border=false" alt="GitHub Streak">
-  <br><br>
