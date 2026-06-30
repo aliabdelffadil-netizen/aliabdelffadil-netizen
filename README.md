@@ -38,6 +38,4 @@ Right now, my main focus is on building a rock-solid technical foundation. I am 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
   <img src="https://streak-stats.demolab.com/?user=USERNAME_HERE&theme=dark&hide_border=false" alt="GitHub Streak">
