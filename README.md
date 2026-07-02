@@ -26,9 +26,9 @@ Right now, my main focus is on building a rock-solid technical foundation. I am 
 
 ## 🎯 Learning Path & Goals
 
-*   **[Current Focus]** Mastering the Linux command line and system administration.
-*   **[Current Focus]** Improving Python skills for scripting and automation.
-*   **[Next Step]** Exploring Networking Fundamentals and basic security concepts.
+*   * Mastering the Linux command line and system administration.
+*   * Improving Python skills for scripting and automation.
+*   * Exploring Networking Fundamentals and basic security concepts.
 
 <div align="center">
   <br>
